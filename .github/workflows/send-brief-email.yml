@@ -23,7 +23,13 @@ jobs:
           FAL_KEY: ${{ secrets.FAL_KEY }}
         run: |
           set -e
-          TODAY=$(date +%F)
+          # Derive the date from the newest issue filename (issues/YYYY-MM-DD.html)
+          # rather than the clock, so the hero always matches the issue being sent.
+          LATEST_ISSUE=$(git ls-files 'issues/*.html' | sort -V | tail -n 1)
+          if [ -z "$LATEST_ISSUE" ]; then
+            echo "generated=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          TODAY=$(basename "$LATEST_ISSUE" .html)
           HERO="assets/${TODAY}-hero.png"
 
           # No prompt file = routine chose to skip the hero today. Not an error.
@@ -60,9 +66,10 @@ jobs:
       - name: Strip hero tag if generation failed
         if: steps.hero.outputs.generated == 'false'
         run: |
-          TODAY=$(date +%F)
-          ISSUE="issues/${TODAY}.html"
-          [ -f "$ISSUE" ] || exit 0
+          # Same derivation as the hero step: date comes from the newest issue file.
+          ISSUE=$(git ls-files 'issues/*.html' | sort -V | tail -n 1)
+          [ -n "$ISSUE" ] && [ -f "$ISSUE" ] || exit 0
+          TODAY=$(basename "$ISSUE" .html)
           # Remove the hero <img> line so the email never ships a broken image
           sed -i "/${TODAY}-hero\.png/d" "$ISSUE"
           # Note: we edit the file in the runner's workspace only — this is
