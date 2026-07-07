@@ -1,0 +1,44 @@
+name: Send Daily Brief Email
+
+on:
+  push:
+    branches:
+      - claude/publish
+    paths:
+      - "issues/**.html"
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Find latest issue
+        id: latest
+        run: |
+          latest=$(git ls-files 'issues/*.html' | sort -V | tail -n 1)
+          if [ -z "$latest" ]; then
+            echo "No HTML files found in issues/" >&2
+            exit 1
+          fi
+          echo "Latest issue: $latest"
+          echo "file=$latest" >> "$GITHUB_OUTPUT"
+          echo "subject=Daily Willy Brief — $(basename "$latest" .html)" >> "$GITHUB_OUTPUT"
+
+      - name: Send via Resend
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          ISSUE_FILE: ${{ steps.latest.outputs.file }}
+          SUBJECT: ${{ steps.latest.outputs.subject }}
+        run: |
+          jq -n \
+            --arg from "Daily Willy Brief <onboarding@resend.dev>" \
+            --arg to "williamkiongwl@gmail.com" \
+            --arg subject "$SUBJECT" \
+            --rawfile html "$ISSUE_FILE" \
+            '{from: $from, to: [$to], subject: $subject, html: $html}' \
+          | curl --fail-with-body -sS -X POST "https://api.resend.com/emails" \
+              -H "Authorization: Bearer $RESEND_API_KEY" \
+              -H "Content-Type: application/json" \
+              --data-binary @-
