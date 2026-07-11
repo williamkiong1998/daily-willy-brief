@@ -1,61 +1,126 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The WillyBrief</title>
+<title>The WillyBrief — Archive</title>
+<style>
+  :root {
+    --background: #F5F7FA;
+    --card: #FFFFFF;
+    --tint: #EBEFF4;
+    --ink: #1C2531;
+    --accent-text: #42648A;
+    --accent-display: #6D90B9;
+    --border: #BBC7DC;
+    --muted: #5A697C;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--background);
+    color: var(--ink);
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+  .wrap {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 32px 16px 64px;
+  }
+  .masthead {
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 24px;
+  }
+  .masthead h1 {
+    font-size: 24px;
+    margin: 0;
+    letter-spacing: 0.5px;
+  }
+  .masthead p {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--accent-text);
+    margin: 6px 0 0;
+  }
+  .latest {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 32px;
+  }
+  .eyebrow {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--accent-text);
+    font-weight: bold;
+  }
+  .latest h2 {
+    font-size: 20px;
+    margin: 6px 0 12px;
+  }
+  a.button {
+    display: inline-block;
+    background: var(--accent-display);
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px 18px;
+    border-radius: 6px;
+  }
+  h3.archive-title {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--muted);
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 8px;
+  }
+  ul.archive {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  ul.archive li {
+    padding: 12px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  ul.archive a {
+    color: var(--ink);
+    text-decoration: none;
+    font-size: 16px;
+  }
+  ul.archive a:hover {
+    color: var(--accent-text);
+  }
+</style>
 </head>
-<body style="margin:0;padding:0;background-color:#FAF7F2;font-family:-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;">
-  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#FAF7F2;margin:0;padding:0;">
-    <tr>
-      <td align="center" style="padding:24px 12px;">
-        <table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" style="max-width:600px;width:100%;background-color:#FFFFFF;border-radius:8px;overflow:hidden;">
+<body>
+<div class="wrap">
+  <div class="masthead">
+    <h1>The WillyBrief</h1>
+    <p>A 5-minute morning brief, brewed daily in Kuala Lumpur</p>
+  </div>
 
-          <!-- Masthead -->
-          <tr>
-            <td style="padding:40px 32px 16px 32px;text-align:center;">
-              <div style="font-size:24px;font-weight:800;letter-spacing:2px;color:#1A1A1A;">THE WILLY BRIEF</div>
-              <div style="font-size:13px;color:#8A8378;margin-top:8px;">A daily 5-minute morning briefing on AI, markets, football, and business.</div>
-            </td>
-          </tr>
+  <div class="latest">
+    <div class="eyebrow">Latest Issue</div>
+    <h2>Saturday, 11 July 2026 — A fifth of the world's oil just became a war zone</h2>
+    <a class="button" href="issues/2026-07-11.html">Read today's issue &rarr;</a>
+  </div>
 
-          <tr>
-            <td style="padding:0 32px;">
-              <hr style="border:none;border-top:1px solid #EDE7DD;margin:8px 0 0 0;">
-            </td>
-          </tr>
-
-          <!-- Latest issue -->
-          <tr>
-            <td style="padding:28px 32px 0 32px;">
-              <div style="font-size:13px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:#6F4E37;padding-bottom:6px;border-bottom:1px solid #EDE7DD;">Today's Issue</div>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:16px 32px 28px 32px;">
-              <a href="issues/2026-07-10.html" style="color:#6F4E37;text-decoration:none;font-size:18px;font-weight:600;">Friday, 10 July 2026 &rarr;</a>
-              <div style="font-size:14px;color:#8A8378;margin-top:6px;">Iran's retaliation spreads to four countries while Wall Street rallies on memory chips, Johor votes tomorrow in a poll that could rattle Putrajaya, and Levi Strauss proves a beat isn't enough anymore.</div>
-            </td>
-          </tr>
-
-          <!-- Archive -->
-          <tr>
-            <td style="padding:0 32px 0 32px;">
-              <div style="font-size:13px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:#6F4E37;padding-bottom:6px;border-bottom:1px solid #EDE7DD;">Archive</div>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:16px 32px 40px 32px;font-size:16px;line-height:2;color:#1A1A1A;">
-              <a href="issues/2026-07-10.html" style="color:#6F4E37;text-decoration:none;">Friday, 10 July 2026</a><br>
-              <a href="issues/2026-07-09.html" style="color:#6F4E37;text-decoration:none;">Thursday, 9 July 2026</a><br>
-              <a href="issues/2026-07-08.html" style="color:#6F4E37;text-decoration:none;">Wednesday, 8 July 2026</a><br>
-              <a href="issues/2026-07-07.html" style="color:#6F4E37;text-decoration:none;">Tuesday, 7 July 2026</a>
-            </td>
-          </tr>
-
-        </table>
-      </td>
-    </tr>
-  </table>
+  <h3 class="archive-title">Archive</h3>
+  <ul class="archive">
+    <li><a href="issues/2026-07-11.html">Saturday, 11 July 2026</a></li>
+    <li><a href="issues/2026-07-10.html">Friday, 10 July 2026</a></li>
+    <li><a href="issues/2026-07-09.html">Thursday, 9 July 2026</a></li>
+    <li><a href="issues/2026-07-08.html">Wednesday, 8 July 2026</a></li>
+    <li><a href="issues/2026-07-07.html">Tuesday, 7 July 2026</a></li>
+  </ul>
+</div>
 </body>
 </html>
