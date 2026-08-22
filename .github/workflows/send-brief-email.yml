@@ -1,11 +1,9 @@
 name: Send Daily Brief Email
 
 on:
-  push:
-    branches:
-      - claude/publish
-    paths:
-      - "issues/**.html"
+  # Legacy Claude/Resend delivery is retained for manual recovery only.
+  # The Codex scheduled task now builds every asset and sends through Gmail.
+  workflow_dispatch:
 
 permissions:
   contents: write # lets the workflow commit the generated hero back
