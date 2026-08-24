@@ -57,6 +57,16 @@ Smart-casual and compressed, with Morning Brew energy but less shtick. Wit belon
 
 Target 1,100–1,300 words. The deeper learning section replaces some headline volume; do not let the issue become a ten-minute read.
 
+### Visual Editorial Brief
+
+Each issue is a sequence of editorial beats, not a stack of equally weighted text blocks. Make the reader encounter a purposeful visual reset at least every one to two screen heights: a lead illustration, data chart or system sketch, compact signal treatment, table, or distinct closing card.
+
+- Use **two required visual anchors**: the Lead illustration and the daily chart or Builder's Notebook system sketch. Add **one or two supporting visuals** only when they clarify the story or change the reading rhythm.
+- The normal maximum is **four purposeful content visuals** per issue, excluding an optional masthead. A visual must either explain the subject, show evidence, or create a meaningful transition. Do not add thumbnails merely to fill space.
+- Vary the form as well as the image: a visual story tile, a numbered signal list, a chart, a mechanism chain, and a compact fixture table should not all look like the same grey card with different copy.
+- Use a display headline only for the Lead and, when justified, the rotating feature. Every other section stays compact and scan-first.
+- The voice remains smart-casual and restrained. Borrow editorial rhythm, not advertising density, visual gimmicks, or emoji-led personality.
+
 ### 1. ☕ Cold Open
 
 Two sentences that connect the day’s most interesting thread. Then show:
@@ -69,12 +79,20 @@ About 130 words on the single most consequential story. End with a one-line **Wh
 
 Follow it with a **THE TAKEAWAY** card: two sentences that state the second-order implication rather than summarize the article.
 
+Present the Lead as the issue's **visual story tile**:
+
+1. Eyebrow, then a display headline, then the editorial illustration.
+2. Follow with the reporting and **Why it matters:** kicker; do not repeat the headline in the body.
+3. The image should establish the story's central tension in one glance. It is not generic decoration and must not depict a literal UI mockup, glossy 3D technology scene, or text that the reader needs in order to understand the story.
+
 ### 3. 🤖 AI & Tech
 
 Four items total:
 
-- Three developments of about 55 words each, each opened by a linked bold mini-headline.
+- Three **numbered signal blocks** of about 55 words each, each opened by a linked bold mini-headline. Separate the blocks with breathing room or fine dividers; never run the three items as one uninterrupted paragraph.
 - One **🔧 Repo of the Day** card.
+
+One of the three signals may open with a single 16:9 supporting image when the image explains the development, such as a research figure, product surface, or original data visual. Do not use a logo, generated stock-tech image, or a near-duplicate of the Lead. The other two signals remain text-led.
 
 Repo qualification:
 
@@ -126,6 +144,8 @@ Append one line to `learning-ledger.md`:
 
 `YYYY-MM-DD | Concept | One-sentence practical takeaway`
 
+When the concept has an explanatory shape, turn the **Mechanism** into a simple system sketch: a static, self-contained diagram or a compact labelled chain. It must explain an input → constraint → behaviour → consequence relationship better than prose alone. Otherwise retain the typographic mechanism chain; never manufacture a diagram just to meet the image budget.
+
 ### 7. Rotating segment
 
 About 120 words, based on the Kuala Lumpur day of week:
@@ -148,6 +168,8 @@ Sign off: `— Brewed fresh at 7am. See you tomorrow.`
 
 Create one self-contained, email-safe HTML file using table-based layout, inline CSS, and a centered 600px maximum width.
 
+The desired feeling is a calm, visual intelligence brief: more like a small editorial publication than an app dashboard. Use generous negative space, precise rules, and a small number of visually distinct modules. Cards earn their place by containing a named editorial device, not by making every section look boxed.
+
 ### Color tokens
 
 Use these values only through their named roles:
@@ -167,20 +189,23 @@ Text smaller than 24px may use only `ink`, `accent-text`, or `muted`. Use `accen
 ### Typography and rhythm
 
 - Font stack: `'Helvetica Neue', Helvetica, Arial, sans-serif`.
+- Display headline: `Georgia, 'Times New Roman', serif`, 30–34px, bold, 1.12–1.18 line-height, `ink`. Use only for the Lead and an exceptional rotating-feature headline. It must stay readable without a remote font.
 - Section heading: 20px bold `ink`.
 - Body: 16px, line-height 1.6, regular `ink`.
 - Eyebrow: 11px uppercase, letter-spaced `accent-text`.
 - Caption: 12px `muted`.
 - Links: `accent-text`, no underline.
 - Dividers and image frames: 1px `border`.
-- Alternate prose with labels, cards, images, charts, or compact tables. The eye should encounter a visual anchor at least every two screen heights.
+- Use a full masthead lock-up: wordmark first, then a restrained date and Kuala Lumpur line. It should establish the edition without competing with the Lead.
+- Keep section intros compact. A long section title plus a long paragraph is a text wall; use short descriptive subtitles only when they sharpen the story.
+- Alternate prose with signal blocks, images, charts, system sketches, or compact tables. The eye should encounter a visual anchor at least every two screen heights.
 
 Required cards:
 
-- Takeaway: `tint`, 4px `accent-display` left border, 16px padding.
-- Repo: `tint`, linked monospace bold name, 28px-or-larger star count in `accent-display`.
-- Builder’s Notebook: `card` with 1px `border`; visually emphasize the mechanism chain and the 20-minute exercise.
-- Closer: centered `tint` card with a 32px `accent-display` number.
+- Takeaway: `tint`, 4px `accent-display` left border, 16px padding. This is the analytical pause after the Lead, not a generic container.
+- Repo: `tint`, linked monospace bold name, 28px-or-larger star count in `accent-display`. Make it denser than the Takeaway: label → repository → stars → one practical use.
+- Builder’s Notebook: `card` with 1px `border`; visually emphasize the mechanism chain or system sketch and the 20-minute exercise.
+- Closer: centered `tint` card with a 32px `accent-display` number. It should feel like a clean endnote, with no competing illustration.
 
 Use `assets/masthead.png` via the raw branch URL when present; otherwise use a text wordmark.
 
@@ -191,7 +216,9 @@ All filenames use the Kuala Lumpur issue date.
 ### Hero
 
 - Generate an editorial illustration for The Lead before publishing.
-- Style: flat editorial illustration, cool off-white background, dusty denim blue and dark ink palette, generous negative space, no text.
+- Style: flat editorial illustration, cool off-white background, dusty denim blue and dark ink palette, generous negative space, no text. Prefer editorial collage, cut-paper, diagrammatic, print-texture, or restrained conceptual imagery over literal scenes.
+- Reject dark glossy 3D renders, neon circuitry, floating dashboards, generic AI imagery, photorealistic stock scenes, and decorative images that could belong to any story.
+- Compose at roughly 8:5 or 16:9 so the image reads clearly at a 552px email width. The central metaphor must survive a small mobile screen crop.
 - Save it as `assets/YYYY-MM-DD-hero.png` and reference the committed raw URL above The Lead.
 - Also save the exact generation prompt as `assets/hero-prompt.txt`.
 - If generation fails, omit the hero cleanly; never leave a broken tag.
@@ -210,10 +237,11 @@ All filenames use the Kuala Lumpur issue date.
 ### Source images
 
 - For selected stories, inspect `og:image`, download only useful editorial images, re-encode as JPEG quality 80, and commit them before reference.
-- Use one full-width image for the rotating segment when suitable and up to three 88px square thumbnails across AI & Tech and World & Malaysia.
+- Prefer one 16:9 supporting image for an AI & Tech signal and one full-width image for the rotating segment when suitable. Do not use more than two supporting story images in one issue.
 - Skip logos, wordmarks, paywall placeholders, images under 400px wide, and near-duplicates of the hero.
 - Retry once, then omit. Never substitute a generic image.
-- Maximum issue image budget: masthead + hero + chart + one rotating image + three thumbnails = seven.
+- Maximum issue image budget: masthead + hero + chart or system sketch + up to two supporting images = five.
+- Every embedded raster must have meaningful alt text, explicit width and height attributes where available, `display:block`, and an inline responsive width. Do not rely on CSS background images, SVG, animation, or a remote font for essential meaning.
 
 ## Publishing and Gmail delivery
 
@@ -227,4 +255,3 @@ All filenames use the Kuala Lumpur issue date.
 - Commit and push only to `claude/publish`.
 - After a successful push, use the connected Gmail account to send the final HTML to `me`. The subject must be the exact contents of `assets/subject.txt`.
 - Do not use Slack. Do not invoke the legacy Resend workflow. Do not send if push failed or validation found broken references.
-
