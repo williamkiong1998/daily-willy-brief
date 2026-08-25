@@ -1,1 +1,13 @@
-Use case: stylized-concept. Asset type: wide editorial newsletter hero, 16:9 composition. Visualize a national digital identity system as critical public infrastructure, inspired by Malaysia but without government logos or readable identity-card details. A sophisticated midnight-blue control-room abstraction: one blank smart identity card is the central trust root, with fine luminous network lines connecting it to passport gates, citizen services, secure databases, and verification nodes. Premium editorial 3D illustration, restrained isometric geometry, deep navy and slate blue with muted cyan and small amber accents. Precise, trustworthy, quietly consequential. No text, letters, numbers, flags, logos, identifiable people, biometric face, watermark, dystopian surveillance imagery, padlocks, hooded hackers, glowing brains, or neon cyberpunk clutter.
+Use case: illustration-story
+Asset type: editorial newsletter hero for The Willy Brief, displayed at 552px wide
+Primary request: a flat editorial collage illustrating a frontier AI company designing its entire inference system as one feedback loop: a simplified model layer, serving layer, silicon chip, memory modules, and network paths forming a calm circular flywheel. The visual should convey that cost and latency improvements feed greater useful product usage, without literal labels.
+Scene/backdrop: generous cool off-white negative space
+Subject: one restrained diagrammatic flywheel made from stacked paper-cut forms, a modest chip at the centre, soft connecting lines and deliberate white space
+Style/medium: refined newspaper editorial illustration, cut-paper and print texture, flat not 3D
+Composition/framing: wide 16:9, central metaphor clear on a small mobile crop, leave clean space around all edges
+Lighting/mood: calm, analytical, intelligent, quietly optimistic
+Color palette: cool off-white background, dusty denim blue, pale slate blue, dark ink; no other bright colours
+Materials/textures: subtle uncoated paper grain and halftone texture
+Text (verbatim): no text
+Constraints: no logos, no brand names, no UI mockup, no dashboard, no watermark
+Avoid: dark glossy 3D, neon circuitry, a floating hologram, stock photography, photorealism, generic robot imagery, text
