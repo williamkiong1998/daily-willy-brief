@@ -1,13 +1,1 @@
-Use case: illustration-story
-Asset type: editorial newsletter hero for The Willy Brief, displayed at 552px wide
-Primary request: a flat editorial collage illustrating a frontier AI company designing its entire inference system as one feedback loop: a simplified model layer, serving layer, silicon chip, memory modules, and network paths forming a calm circular flywheel. The visual should convey that cost and latency improvements feed greater useful product usage, without literal labels.
-Scene/backdrop: generous cool off-white negative space
-Subject: one restrained diagrammatic flywheel made from stacked paper-cut forms, a modest chip at the centre, soft connecting lines and deliberate white space
-Style/medium: refined newspaper editorial illustration, cut-paper and print texture, flat not 3D
-Composition/framing: wide 16:9, central metaphor clear on a small mobile crop, leave clean space around all edges
-Lighting/mood: calm, analytical, intelligent, quietly optimistic
-Color palette: cool off-white background, dusty denim blue, pale slate blue, dark ink; no other bright colours
-Materials/textures: subtle uncoated paper grain and halftone texture
-Text (verbatim): no text
-Constraints: no logos, no brand names, no UI mockup, no dashboard, no watermark
-Avoid: dark glossy 3D, neon circuitry, a floating hologram, stock photography, photorealism, generic robot imagery, text
+Flat editorial illustration for an intelligent business newsletter, wide 16:9 composition. A calm, flat cut-paper collage: a modular AI factory depicted as a line of four connected layers—power source, cooling/compute racks, data flow, and a small network of product builders—showing that AI capacity is a coordinated system. Dusty denim blue, muted slate, cool off-white background, dark ink outlines, gentle print texture, generous negative space, restrained abstract geometry, no gradients, no text, no logos, no people, no literal dashboard, no glossy 3D, no neon circuitry, no photorealism. The central metaphor must remain clear on a small mobile screen.
