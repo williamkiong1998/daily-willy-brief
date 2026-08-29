@@ -6,3 +6,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-08-26 | Workload-aware routing | Route each AI request by task, service level and data boundary rather than defaulting to one model or serving path.
 2026-08-27 | Commit fences | Put externally consequential agent actions behind explicit consequence-based approvals and an auditable record.
 2026-08-28 | Measurement contracts | Define a completed-work unit, quality threshold, exception and business outcome before trusting an agent activity metric.
+2026-08-29 | Cost of capital | Treat long-dated product payoffs as funded hypotheses with an explicit first cash consequence and evidence threshold.
