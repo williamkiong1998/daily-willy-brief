@@ -9,3 +9,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-08-29 | Cost of capital | Treat long-dated product payoffs as funded hypotheses with an explicit first cash consequence and evidence threshold.
 2026-08-30 | Reinforcing loops | Make each deployment return a usable signal to a named owner who can improve the next one.
 2026-09-01 | Policy as code | Store business facts separately from eligibility rules, effective dates and boundary tests so a policy change becomes a controlled release.
+2026-09-02 | Capability gates | Match an agent's permissions and release evidence to the highest-impact action it can take.

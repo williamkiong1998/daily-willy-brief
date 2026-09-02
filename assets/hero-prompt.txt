@@ -1,13 +1,13 @@
 Use case: illustration-story
-Asset type: editorial email hero illustration for The Willy Brief, displayed at 552px wide
-Primary request: Show Malaysia's investment approvals as an intentional pipeline rather than money already spent: five paper-cut investment streams flow toward a calm Malaysian industrial landscape of a semiconductor package, a logistics container, a clean factory silhouette, and a small city skyline. One stream pauses at a transparent checkpoint gate to make the distinction between approved commitments and real-world implementation clear.
-Scene/backdrop: cool off-white editorial paper field with generous negative space
-Subject: an abstract, conceptual investment-to-execution pipeline in Malaysia
-Style/medium: flat editorial collage, cut-paper shapes, restrained print texture, sophisticated newspaper illustration
-Composition/framing: wide 16:9 horizontal composition, central metaphor legible on a small mobile screen, no UI or dashboard elements
-Lighting/mood: calm, analytical, quietly optimistic
-Color palette: cool off-white background, dusty denim blue, muted slate blue, dark ink, restrained secondary blue accents
-Materials/textures: subtle paper grain and screenprint texture
+Asset type: 600px email editorial lead illustration
+Primary request: a metaphor for frontier AI deployment being held at a safety gate before release
+Scene/backdrop: cool off-white editorial field with generous negative space
+Subject: a restrained cut-paper collage of a bright blue, abstract AI capability moving along a rail toward an open release gate; a human-scale steward checks a small checkpoint and layered safety barriers; the system is clearly contained, not trapped
+Style/medium: flat editorial illustration, cut-paper and print-texture, intelligent newspaper-magazine art direction
+Composition/framing: wide 16:9, central metaphor must remain legible at 552px width
+Lighting/mood: calm, considered, analytical
+Color palette: cool off-white, dusty denim blue, muted slate blue, dark ink
+Materials/textures: fine paper grain, crisp shapes, sparse linework
 Text (verbatim): ""
-Constraints: no text, no letters, no numbers, no logos, no flags, no watermark; do not depict literal user interfaces, glossy 3D, neon circuitry, photorealistic stock scenes, or generic AI imagery
-Avoid: dark background, floating dashboards, familiar generic corporate visual tropes
+Constraints: no text, no logos, no literal UI mockups, no glossy 3D, no neon circuitry, no generic robot head, no photorealism, no watermarks
+Avoid: floating dashboards, blue neon, dark backgrounds, visual clutter, stock-tech imagery
