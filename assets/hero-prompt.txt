@@ -1,13 +1,13 @@
 Use case: illustration-story
-Asset type: 600px email editorial lead illustration
-Primary request: a metaphor for frontier AI deployment being held at a safety gate before release
-Scene/backdrop: cool off-white editorial field with generous negative space
-Subject: a restrained cut-paper collage of a bright blue, abstract AI capability moving along a rail toward an open release gate; a human-scale steward checks a small checkpoint and layered safety barriers; the system is clearly contained, not trapped
-Style/medium: flat editorial illustration, cut-paper and print-texture, intelligent newspaper-magazine art direction
-Composition/framing: wide 16:9, central metaphor must remain legible at 552px width
-Lighting/mood: calm, considered, analytical
-Color palette: cool off-white, dusty denim blue, muted slate blue, dark ink
-Materials/textures: fine paper grain, crisp shapes, sparse linework
+Asset type: email editorial hero image for The Willy Brief, displayed at 552px wide
+Primary request: A flat editorial collage illustrating the hidden supply chain of AI agent skills: a small human product builder at a desk looking toward a long winding conveyor of labeled-but-unread instruction sheets passing through gates and branching into several small tools; one sheet is checked with a magnifying glass while others slip into the system. The central tension is speed of adoption versus provenance and inspection.
+Scene/backdrop: cool off-white paper background with generous negative space
+Subject: instruction sheets, file folders, discrete tool nodes, magnifying glass and thoughtful human figure
+Style/medium: refined newspaper-magazine cut-paper illustration, subtle print texture, diagrammatic but not a literal UI mockup
+Composition/framing: wide 16:9 composition, central metaphor clear at small mobile size, usable breathing room
+Lighting/mood: calm, analytical, slightly wry
+Color palette: off-white, dusty denim blue, muted slate blue and dark ink only
+Materials/textures: cut paper, light grain, restrained offset-print texture
 Text (verbatim): ""
-Constraints: no text, no logos, no literal UI mockups, no glossy 3D, no neon circuitry, no generic robot head, no photorealism, no watermarks
-Avoid: floating dashboards, blue neon, dark backgrounds, visual clutter, stock-tech imagery
+Constraints: no logos, no words, no letters, no UI panels, no watermark, no photorealism
+Avoid: dark glossy 3D, neon circuitry, floating dashboards, generic AI brain imagery, stock-photo look
