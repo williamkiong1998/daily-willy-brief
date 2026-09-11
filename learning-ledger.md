@@ -11,3 +11,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-09-01 | Policy as code | Store business facts separately from eligibility rules, effective dates and boundary tests so a policy change becomes a controlled release.
 2026-09-02 | Capability gates | Match an agent's permissions and release evidence to the highest-impact action it can take.
 2026-09-03 | Provenance contracts | Record a dependency's source, version, permissions, owner and revocation path before giving it an agent's authority.
+2026-09-11 | Control-plane design | Keep authority, budget, permitted tools, stop rules and review evidence separate from the work an agent performs.

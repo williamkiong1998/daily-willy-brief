@@ -1,13 +1,12 @@
 Use case: illustration-story
-Asset type: email editorial hero image for The Willy Brief, displayed at 552px wide
-Primary request: A flat editorial collage illustrating the hidden supply chain of AI agent skills: a small human product builder at a desk looking toward a long winding conveyor of labeled-but-unread instruction sheets passing through gates and branching into several small tools; one sheet is checked with a magnifying glass while others slip into the system. The central tension is speed of adoption versus provenance and inspection.
-Scene/backdrop: cool off-white paper background with generous negative space
-Subject: instruction sheets, file folders, discrete tool nodes, magnifying glass and thoughtful human figure
-Style/medium: refined newspaper-magazine cut-paper illustration, subtle print texture, diagrammatic but not a literal UI mockup
-Composition/framing: wide 16:9 composition, central metaphor clear at small mobile size, usable breathing room
-Lighting/mood: calm, analytical, slightly wry
-Color palette: off-white, dusty denim blue, muted slate blue and dark ink only
-Materials/textures: cut paper, light grain, restrained offset-print texture
+Asset type: 8:5 editorial illustration for a 600px email newsletter lead image
+Primary request: communicate that public-sector AI adoption is becoming a long-term managed agreement, not a one-off software launch.
+Scene/backdrop: cool off-white paper background with substantial negative space.
+Subject: a calm civic building represented as a clean architectural block on the left; a long blue contract ribbon travels through three deliberate checkpoints—budget dial, shield, and training handbook—then becomes a small warm light in the building. Include one tiny human operator reviewing the process, not a heroic pose.
+Style/medium: restrained flat editorial collage, cut-paper layers, subtle print grain, intelligent newspaper-magazine illustration.
+Composition/framing: wide 8:5 composition with the process moving left to right, central metaphor clear at mobile size, no UI mockup.
+Lighting/mood: calm, analytical, early-morning optimism.
+Color palette: cool off-white, dusty denim blue, pale slate blue, dark ink; small muted warm-paper accent only.
+Materials/textures: cut paper, fine halftone print texture.
 Text (verbatim): ""
-Constraints: no logos, no words, no letters, no UI panels, no watermark, no photorealism
-Avoid: dark glossy 3D, neon circuitry, floating dashboards, generic AI brain imagery, stock-photo look
+Constraints: no text, no letters, no logos, no flags, no watermarks; avoid glossy 3D, neon, circuitry, floating dashboards, photorealistic stock scenes, or generic robot imagery.
