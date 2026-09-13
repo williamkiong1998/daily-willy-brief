@@ -1,12 +1,12 @@
 Use case: illustration-story
-Asset type: 8:5 editorial illustration for a 600px email newsletter lead image
-Primary request: communicate that public-sector AI adoption is becoming a long-term managed agreement, not a one-off software launch.
-Scene/backdrop: cool off-white paper background with substantial negative space.
-Subject: a calm civic building represented as a clean architectural block on the left; a long blue contract ribbon travels through three deliberate checkpoints—budget dial, shield, and training handbook—then becomes a small warm light in the building. Include one tiny human operator reviewing the process, not a heroic pose.
-Style/medium: restrained flat editorial collage, cut-paper layers, subtle print grain, intelligent newspaper-magazine illustration.
-Composition/framing: wide 8:5 composition with the process moving left to right, central metaphor clear at mobile size, no UI mockup.
-Lighting/mood: calm, analytical, early-morning optimism.
-Color palette: cool off-white, dusty denim blue, pale slate blue, dark ink; small muted warm-paper accent only.
-Materials/textures: cut paper, fine halftone print texture.
+Asset type: editorial email hero illustration for The Willy Brief, 16:9 landscape
+Primary request: An original flat editorial collage about intentionally pacing powerful AI: a sleek abstract cobalt-blue current rushing from left to right, carefully passing through a series of three calm human-built checkpoints. One independent observer studies the flow through a paper clipboard and magnifying lens; another adjusts a small physical gate. The image should communicate verification before speed, not fear or sci-fi spectacle.
+Scene/backdrop: warm cool-off-white paper field with generous negative space
+Style/medium: sophisticated cut-paper editorial illustration with subtle print grain, hand-cut layers, restrained diagrammatic shapes
+Composition/framing: wide 16:9; central metaphor clearly readable at mobile email width; no literal screen, dashboard, robot, circuit board, or laboratory
+Lighting/mood: calm, intelligent, slightly urgent but constructive
+Color palette: off-white, dusty denim blue, muted slate blue, dark ink; no neon, no red
+Materials/textures: paper fibres, subtle offset-print texture
 Text (verbatim): ""
-Constraints: no text, no letters, no logos, no flags, no watermarks; avoid glossy 3D, neon, circuitry, floating dashboards, photorealistic stock scenes, or generic robot imagery.
+Constraints: no text, no letters, no numbers, no logos, no watermark; no people identifiable as public figures; no glossy 3D; no generic AI imagery; do not make the checkpoints look like a prison or a surveillance state
+Avoid: photorealism, neon circuitry, floating dashboards, robots, futuristic city, dark glossy render, visual clutter

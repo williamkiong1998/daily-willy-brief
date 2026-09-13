@@ -12,3 +12,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-09-02 | Capability gates | Match an agent's permissions and release evidence to the highest-impact action it can take.
 2026-09-03 | Provenance contracts | Record a dependency's source, version, permissions, owner and revocation path before giving it an agent's authority.
 2026-09-11 | Control-plane design | Keep authority, budget, permitted tools, stop rules and review evidence separate from the work an agent performs.
+2026-09-13 | Fault containment | Enforce small, recoverable action boundaries below an agent's natural-language plan so one error stays local.
