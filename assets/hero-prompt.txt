@@ -1,13 +1,12 @@
 Use case: illustration-story
-Asset type: editorial email hero for The Willy Brief, displayed at 552px wide
-Primary request: a calm editorial illustration of the tension between AI capability and independent oversight: a long blue bridge carrying simple abstract circuit-like parcels toward a distant city, while a small human-scale inspection gate with a magnifying lens checks each parcel before it crosses
-Scene/backdrop: cool off-white paper background with generous negative space
-Subject: bridge, inspection gate, abstract parcels, subtle human presence only as a tiny silhouette
-Style/medium: flat editorial collage, cut-paper shapes and subtle print texture; intelligent magazine illustration
-Composition/framing: wide 8:5 landscape, clear focal point in the center; no UI panels, no literal screens
-Lighting/mood: calm, thoughtful, quietly urgent
-Color palette: dusty denim blue, slate blue, dark ink, warm off-white; restrained contrast
-Materials/textures: matte paper grain, layered cut-paper edges
-Text (verbatim): ""
-Constraints: no text, no logos, no watermark; readable at mobile size
-Avoid: glossy 3D, neon, cyberpunk circuitry, floating dashboards, generic AI head imagery, photorealistic people, dark background
+Asset type: 600px email newsletter lead illustration
+Primary request: an editorial illustration expressing the tension between accelerating frontier AI development and a call to slow down for safety
+Scene/backdrop: warm cool-off-white paper field with generous negative space
+Subject: a single cobalt-blue safety flag or inspection barrier set across a simple racing track; a small procession of abstract dark-ink compute blocks approaches it while a second route curves safely around the barrier
+Style/medium: sophisticated flat editorial collage, cut-paper shapes, restrained print texture, magazine illustration
+Composition/framing: wide 16:9 landscape, central metaphor legible at 552px email width, clean upper and lower edges
+Lighting/mood: calm, analytical, slightly tense
+Color palette: cool off-white, dusty denim blue, muted slate blue, dark ink only
+Materials/textures: tactile cut paper and faint halftone grain
+Text (verbatim): no text
+Constraints: no literal UI mockup, no logos, no words, no watermark, no people, no photorealism, no glossy 3D, no neon circuitry, no floating dashboards
