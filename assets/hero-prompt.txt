@@ -1,12 +1,10 @@
 Use case: illustration-story
-Asset type: 600px email newsletter lead illustration
-Primary request: an editorial illustration expressing the tension between accelerating frontier AI development and a call to slow down for safety
-Scene/backdrop: warm cool-off-white paper field with generous negative space
-Subject: a single cobalt-blue safety flag or inspection barrier set across a simple racing track; a small procession of abstract dark-ink compute blocks approaches it while a second route curves safely around the barrier
-Style/medium: sophisticated flat editorial collage, cut-paper shapes, restrained print texture, magazine illustration
-Composition/framing: wide 16:9 landscape, central metaphor legible at 552px email width, clean upper and lower edges
-Lighting/mood: calm, analytical, slightly tense
-Color palette: cool off-white, dusty denim blue, muted slate blue, dark ink only
-Materials/textures: tactile cut paper and faint halftone grain
-Text (verbatim): no text
-Constraints: no literal UI mockup, no logos, no words, no watermark, no people, no photorealism, no glossy 3D, no neon circuitry, no floating dashboards
+Asset type: editorial email Lead illustration, 16:9 landscape
+Primary request: a conceptual illustration of AI computing bottleneck shifting from GPUs to the network: four understated dark-ink compute blocks connected by thin blue data lines; in the middle, a graceful blue fabric bridge turns a traffic jam of small paper-like packets into an orderly flowing stream; one small accelerator block waits at the edge, then receives the flow.
+Scene/backdrop: quiet cool off-white paper background with generous negative space.
+Style/medium: flat editorial cut-paper collage, contemporary newspaper illustration, restrained diagrammatic forms and subtle print texture.
+Composition/framing: wide 16:9, centered metaphor, clear at 552px email width.
+Lighting/mood: calm, analytical, optimistic.
+Color palette: cool off-white, dusty denim blue, muted blue-grey, dark ink; no other bright colors.
+Text (verbatim): ""
+Constraints: no text, no letters, no logos, no UI, no faces, no literal chip branding, no glossy 3D rendering, no neon circuitry, no floating dashboards, no photorealism, no watermark.

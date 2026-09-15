@@ -15,3 +15,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-09-13 | Fault containment | Enforce small, recoverable action boundaries below an agent's natural-language plan so one error stays local.
 2026-09-14 | Assurance cases | Make each consequential automation state its safety claim, evidence, operating limits and exception owner before it earns permission.
 2026-09-15 | Resumability | Persist both work state and authority state so a paused agent can continue safely without replaying a consequential action.
+2026-09-16 | Coordination tax | In any distributed workflow, reduce shared dependencies and handoffs that leave capable workers waiting instead of producing.
