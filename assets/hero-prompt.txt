@@ -1,10 +1,10 @@
 Use case: illustration-story
 Asset type: editorial email Lead illustration, 16:9 landscape
-Primary request: a conceptual illustration of AI computing bottleneck shifting from GPUs to the network: four understated dark-ink compute blocks connected by thin blue data lines; in the middle, a graceful blue fabric bridge turns a traffic jam of small paper-like packets into an orderly flowing stream; one small accelerator block waits at the edge, then receives the flow.
+Primary request: a calm flat cut-paper collage about conversational commerce and AI advertising. An abstract dusty-denim blue speech bubble unfolds into a small non-literal marketplace path with three simple product-shaped objects: a chair silhouette, a lamp silhouette and a book-shaped block. A small dark-ink abstract figure stands at the edge deciding, while a subtle blue bridge connects the conversation to the objects.
 Scene/backdrop: quiet cool off-white paper background with generous negative space.
 Style/medium: flat editorial cut-paper collage, contemporary newspaper illustration, restrained diagrammatic forms and subtle print texture.
-Composition/framing: wide 16:9, centered metaphor, clear at 552px email width.
-Lighting/mood: calm, analytical, optimistic.
+Composition/framing: wide 16:9, central metaphor clear at 552px email width.
+Lighting/mood: calm, analytical, quietly optimistic.
 Color palette: cool off-white, dusty denim blue, muted blue-grey, dark ink; no other bright colors.
 Text (verbatim): ""
-Constraints: no text, no letters, no logos, no UI, no faces, no literal chip branding, no glossy 3D rendering, no neon circuitry, no floating dashboards, no photorealism, no watermark.
+Constraints: no text, no letters, no logos, no UI, no screens, no dashboards, no photorealism, no neon, no glossy 3D rendering, no watermark.
