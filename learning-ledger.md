@@ -17,3 +17,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-09-15 | Resumability | Persist both work state and authority state so a paused agent can continue safely without replaying a consequential action.
 2026-09-16 | Coordination tax | In any distributed workflow, reduce shared dependencies and handoffs that leave capable workers waiting instead of producing.
 2026-09-17 | Intent handoffs | Transfer only the context needed for the next decision, disclose the new actor and authority, and preserve a clear exit.
+2026-09-23 | Progressive authority | Start each agent with the least useful permission and require explicit evidence plus approval before expanding its scope.

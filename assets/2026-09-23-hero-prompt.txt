@@ -1,0 +1,12 @@
+Use case: illustration-story
+Asset type: editorial email lead illustration, 552px-wide display
+Primary request: visualise the strategic tension of a technology company owning the whole AI stack, from semiconductor chips through cloud infrastructure and foundation models to an agent at the edge.
+Scene/backdrop: calm cool off-white paper background with generous negative space.
+Subject: a single vertical, architectural chain of four connected blue forms: a small patterned chip tile at the bottom, a simple cloud/storage block, a luminous folded-paper abstract model form, and a modest helpful agent silhouette at the top; a human operator at the side has one visible control lever, showing choice and governance.
+Style/medium: flat editorial collage, cut-paper and print texture, restrained diagrammatic visual language.
+Composition/framing: wide 16:9 landscape, central metaphor clearly legible at small mobile size, no border.
+Lighting/mood: quiet, analytical, tactile, confident.
+Color palette: cool off-white, dusty denim blue, soft slate blue, dark ink only.
+Materials/textures: subtle paper grain, crisp cut-paper edges.
+Text (verbatim): no text.
+Constraints: no literal UI mockup, no logos or brand marks, no glossy 3D, no neon circuitry, no floating dashboards, no photorealism, no watermark.
