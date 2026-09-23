@@ -1,0 +1,12 @@
+Use case: illustration-story
+Asset type: editorial email hero for The Willy Brief, 600px-wide newsletter
+Primary request: A flat editorial illustration about a frontier AI model becoming cheaper to operate: a precise dark-ink balance beam or workshop scale where a compact abstract model engine on one side produces a long useful paper ribbon on the other; the system feels more efficient without looking magical.
+Scene/backdrop: cool off-white field with generous breathing room.
+Subject: one conceptual machine, a calibrated scale and a single human hand making a careful adjustment; no faces or literal software interface.
+Style/medium: sophisticated cut-paper editorial collage with subtle print texture, restrained diagrammatic geometry.
+Composition/framing: wide 16:9 horizontal composition; strong central metaphor, readable when cropped on a phone.
+Lighting/mood: calm, analytical, optimistic but sober.
+Color palette: only cool off-white, dusty denim blue, muted slate blue, and dark ink.
+Materials/textures: layered paper, very subtle grain, crisp shapes.
+Text (verbatim): ""
+Constraints: no text, no letters, no numbers, no logos, no watermark, no user interface, no glossy 3D rendering, no neon circuitry, no floating dashboard, no photorealistic people.
