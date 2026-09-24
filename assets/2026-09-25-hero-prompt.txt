@@ -1,0 +1,10 @@
+Use case: illustration-story
+Asset type: 600px email editorial hero for The Willy Brief
+Primary request: create a new, non-geographic editorial collage about a temporary trade truce: two abstract dark-ink paper cliffs face one another across a narrow sequence of pale-blue calendar-like stepping stones; a single small human planner with a folder stands at the midpoint, conveying a short operating window and contingent continuity.
+Scene/backdrop: cool off-white field with generous negative space.
+Style/medium: sophisticated flat editorial cut-paper illustration, restrained print texture.
+Composition/framing: wide 16:9; the central bridge and planner are legible at mobile width.
+Lighting/mood: calm, strategic, subtly tense.
+Color palette: dusty denim blue, muted slate, dark ink, off-white. No red.
+Text (verbatim): ""
+Constraints: abstract forms only; absolutely no maps, countries, flags, national symbols, letters, numbers, text, logos, brands, charts, screens, dashboards, neon, glossy 3D, photorealism, watermark, circuit boards, or literal political portraits.
