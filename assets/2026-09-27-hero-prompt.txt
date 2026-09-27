@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: email newsletter Lead illustration, approximately 16:9 landscape
+Primary request: create a calm editorial illustration about account security becoming visible and reviewable, not hidden in settings.
+Scene/backdrop: cool off-white paper field with generous negative space.
+Subject: a single dark-ink key-like thread passes through three small blue paper checkpoints (a sign-in, a passkey, and a security setting represented abstractly with simple symbols), ending at an open audit ledger. The metaphor should be legible at small mobile size: access leaves a trail.
+Style/medium: flat editorial collage, cut-paper geometry, subtle print grain, restrained diagrammatic clarity.
+Composition/framing: wide 16:9 composition; central horizontal flow with breathing room; no text required.
+Lighting/mood: calm, precise, trustworthy.
+Color palette: cool off-white, dusty denim blue, muted slate blue, dark ink only.
+Constraints: no readable text, no logo, no literal application interface, no glossy 3D, no neon circuitry, no photorealism, no watermark, no generic robot imagery.
+Avoid: floating dashboards, padlock stock imagery, complex UI panels, dark backgrounds.
