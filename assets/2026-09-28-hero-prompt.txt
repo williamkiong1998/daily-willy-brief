@@ -1,0 +1,13 @@
+Use case: stylized-concept
+Asset type: 600px-wide email editorial lead illustration for The Willy Brief
+Primary request: create a calm conceptual illustration of persistent AI work moving safely through a managed workspace after a person steps away: a small human figure places a paper task token onto a visible track that passes through three clear checkpoints and continues into an orderly workbench, with a distinct stop gate and a ledger-like trail of simple dots; the story is delegated work that remains controllable.
+Scene/backdrop: cool off-white paper field with generous negative space
+Subject: one small abstract person, a task token, a constrained workflow path, stop gate, orderly workspace; no brands or interfaces
+Style/medium: flat editorial collage, layered cut paper with subtle risograph print grain and restrained diagrammatic geometry
+Composition/framing: wide 16:9 landscape, central metaphor large and legible on a small mobile crop, balanced whitespace
+Lighting/mood: calm, analytical, quietly reassuring
+Color palette: cool off-white, dusty denim blue, soft slate blue, dark ink
+Materials/textures: matte cut paper, faint print texture
+Text (verbatim): ""
+Constraints: no text, letters, numbers, logos, UI mockups, glossy 3D, neon circuitry, floating dashboard, photorealistic stock imagery, watermark
+Avoid: generic AI imagery or anything resembling a literal product screenshot
