@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: The Willy Brief email Lead illustration, 8:5 wide raster editorial image
+Primary request: A visual metaphor for Meta launching an enterprise AI platform: a single calm operator at a desk supervises a modular agent workflow travelling from a familiar message bubble on the left through a sequence of transparent labelled-by-shape checkpoints, then into a small, orderly business workshop on the right. The central tension is that scale needs legible checkpoints and human control.
+Scene/backdrop: cool off-white paper background with generous negative space.
+Subject: one human operator, a small network of tools and task slips, one visible pause/checkpoint gate.
+Style/medium: premium flat editorial cut-paper collage, printed paper grain, restrained diagrammatic forms; not a literal product UI.
+Composition/framing: 16:9 landscape; clear central visual metaphor, mobile-safe; leave simple breathing room around every edge.
+Lighting/mood: calm, precise, quietly intelligent.
+Color palette: dusty denim blue, pale grey-blue, warm off-white, dark ink; no bright hues.
+Text (verbatim): no text.
+Constraints: no logos, no brand marks, no dashboards, no screens with readable UI, no shiny 3D render, no neon circuitry, no photorealism, no watermark.

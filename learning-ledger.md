@@ -23,3 +23,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-09-25 | Commitment horizons | Give every critical dependency an owner, expiry, switching lead time and renewal trigger so temporary stability becomes a deliberate option rather than a surprise risk.
 2026-09-27 | Event sourcing | Preserve the meaningful action trail with actor, context and order so a system’s current state remains explainable, reviewable and recoverable.
 2026-09-28 | Cancellation semantics | Define who may stop a workflow at each state, what survives, what compensates, and what evidence proves the final outcome.
+2026-09-29 | Tenant boundaries | Scope an agent's identity, memory, data and tools to the work owner so shared infrastructure never becomes shared authority.
