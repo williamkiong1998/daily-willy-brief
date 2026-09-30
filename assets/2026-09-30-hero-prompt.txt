@@ -1,0 +1,13 @@
+Use case: illustration-story
+Asset type: email newsletter Lead illustration, rendered at roughly 16:9 for a 552px-wide editorial tile
+Primary request: show the moment an AI agent crosses from a contained workspace into the open web, with a human-visible approval checkpoint controlling the bridge
+Scene/backdrop: generous cool off-white field, a small calm worktable and a simple browser-like open space connected by a single narrow bridge
+Subject: a small abstract blue agent shape travelling toward a gate; a human hand places a physical approval token at the gate, making the boundary legible
+Style/medium: flat editorial collage and cut-paper illustration, sophisticated magazine print texture, diagrammatic but warm
+Composition/framing: wide horizontal, central metaphor large enough to survive a mobile crop, abundant negative space, crisp silhouettes
+Lighting/mood: calm, intelligent, quietly tense
+Color palette: cool off-white, dusty denim blue, muted slate blue and dark ink only
+Materials/textures: cut paper, screenprint grain, restrained hand-drawn outlines
+Text (verbatim): ""
+Constraints: no written text, no logos, no UI mockups, no watermarks; the decision gate must be understandable in one glance
+Avoid: glossy 3D, neon circuitry, floating dashboards, generic AI imagery, photorealism, tiny cluttered details
