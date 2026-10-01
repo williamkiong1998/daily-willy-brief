@@ -25,3 +25,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-09-28 | Cancellation semantics | Define who may stop a workflow at each state, what survives, what compensates, and what evidence proves the final outcome.
 2026-09-29 | Tenant boundaries | Scope an agent's identity, memory, data and tools to the work owner so shared infrastructure never becomes shared authority.
 2026-09-30 | Boundary approvals | Place consent at the exact moment an agent crosses into a new system, and make the permitted scope and recovery path visible there.
+2026-10-01 | Context contracts | Give each agent task an inspectable source scope, freshness rule, conflict rule and escalation owner before retrieval begins.
