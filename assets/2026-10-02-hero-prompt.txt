@@ -1,0 +1,13 @@
+Use case: illustration-story
+Asset type: email newsletter lead illustration, 16:9 landscape
+Primary request: editorial illustration about phased release gates for a powerful AI system
+Scene/backdrop: pale cool off-white field with generous negative space
+Subject: a careful sequence of four translucent checkpoints leading toward a bright but contained blue geometric intelligence core; a small human reviewer at one checkpoint, and a subtle shield at another, conveying controlled rollout rather than spectacle
+Style/medium: flat editorial collage with cut-paper shapes, diagrammatic composition and restrained print texture
+Composition/framing: wide 16:9, central metaphor readable at a 552px email width, no interface mockup
+Lighting/mood: calm, rigorous, quietly optimistic
+Color palette: only cool off-white, dusty denim blue, muted slate blue and dark ink
+Materials/textures: paper grain, clean geometric forms
+Text (verbatim): none
+Constraints: no text, no logos, no watermark; no glossy 3D, neon circuitry, floating dashboards, generic AI brain imagery, photorealism or stock-photo look
+Avoid: any literal UI, dark background, clutter, tiny details
