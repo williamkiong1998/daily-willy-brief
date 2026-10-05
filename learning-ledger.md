@@ -29,3 +29,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-10-02 | Release gates | Expand an agent's audience or authority only after predefined evidence shows the prior scope is useful, bounded and reversible.
 2026-10-03 | Policy as product surface | Make every consequential capability legible as a permission, an enforced boundary, a notification and a reversal path.
 2026-10-04 | Scenario-based authority | Expand an operator’s authority only after a bounded real-world scenario produces an inspectable trace and a reviewed outcome.
+2026-10-05 | Sparse activation | Route routine work to the smallest reliable capability and reserve expensive reasoning for requests whose judgement justifies it.

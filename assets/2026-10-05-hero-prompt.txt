@@ -1,0 +1,13 @@
+Use case: illustration-story
+Asset type: editorial lead illustration for a 600px-wide morning email brief.
+Primary request: portray the central tension of an open-weight AI model becoming portable infrastructure: a small bright blue hummingbird-like geometric intelligence form emerging from an open archival case, while a careful operator carries a compact blueprint and checks a separate safety checklist. Make the meaning clear without literal software interfaces.
+Scene/backdrop: warm cool off-white paper field with generous negative space.
+Subject: portable model weights, human operational responsibility.
+Style/medium: sophisticated flat editorial collage with cut-paper layers and subtle print texture.
+Composition/framing: wide 16:9-ish landscape, uncluttered, one strong central metaphor that survives a mobile crop.
+Lighting/mood: calm, intelligent, lightly tense but optimistic.
+Color palette: cool off-white, dusty denim blue, muted steel blue, and dark ink only.
+Materials/textures: clipped paper, blueprint linework, restrained grain.
+Text (verbatim): ""
+Constraints: no logos, no words, no labels, no code, no UI screens, no watermarks, no photorealism.
+Avoid: glossy 3D, neon circuitry, floating dashboards, generic robot imagery, stock-photo look, dark background.
