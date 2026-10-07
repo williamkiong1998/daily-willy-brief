@@ -30,3 +30,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-10-03 | Policy as product surface | Make every consequential capability legible as a permission, an enforced boundary, a notification and a reversal path.
 2026-10-04 | Scenario-based authority | Expand an operator’s authority only after a bounded real-world scenario produces an inspectable trace and a reviewed outcome.
 2026-10-05 | Sparse activation | Route routine work to the smallest reliable capability and reserve expensive reasoning for requests whose judgement justifies it.
+2026-10-08 | Generative UI contracts | Constrain adaptive interfaces with approved components, data contracts, confirmation points and a plain-text fallback so they can personalise presentation without inventing authority.

@@ -1,0 +1,12 @@
+Use case: illustration-story
+Asset type: newsletter lead editorial illustration, 16:9 landscape
+Primary request: an editorial illustration about software adapting its interface to a person’s task, rather than people adapting to fixed software
+Scene/backdrop: a calm cool off-white paper field, generous negative space
+Subject: an abstract, human-scale desk with one folded blueprint transforming into three useful physical forms: a comparison panel, a simple map, and a small calculator; a single seated person observes from the side. The forms should look like cut paper and modular components, not literal app screens.
+Style/medium: flat editorial collage, cut-paper shapes, restrained print texture, contemporary newspaper illustration
+Composition/framing: wide 16:9, central metaphor clear at small mobile size, no elements cropped
+Lighting/mood: quiet, precise, optimistic but not glossy
+Color palette: cool off-white, dusty denim blue, desaturated slate blue, dark ink
+Materials/textures: matte paper grain, subtle screen-print texture
+Text (verbatim): ""
+Constraints: no text, no letters, no logos, no UI mockup, no neon, no circuitry, no photorealism, no glossy 3D, no watermark
