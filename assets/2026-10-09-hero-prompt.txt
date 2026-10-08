@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: editorial email Lead illustration, approximately 16:9 landscape
+Primary request: A restrained flat editorial collage about an AI work agent moving safely across an organisation.
+Scene/backdrop: cool off-white paper background with generous negative space.
+Subject: a single cobalt-blue messenger-like thread travelling from a small prompt card through three clearly abstracted work artifacts (a document sheet, an inbox envelope, and a code terminal block), passing through a thin governance gate before returning as one finished checkmarked work packet. The composition should imply controlled cross-system work, not a literal product interface.
+Style/medium: sophisticated cut-paper editorial illustration, subtle print grain, diagrammatic clarity, contemporary business magazine art.
+Composition/framing: wide 16:9, central metaphor large and readable at a 552px email width; leave breathing room at edges.
+Color palette: dusty denim blue, dark ink, pale slate-grey, cool off-white.
+Materials/textures: flat paper layers and restrained halftone texture.
+Text (verbatim): ""
+Constraints: no text, no letters, no logos, no watermark, no people, no glossy 3D, no neon circuitry, no floating dashboards, no literal UI mockup, no photorealism.
