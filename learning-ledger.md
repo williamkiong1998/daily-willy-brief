@@ -32,3 +32,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-10-05 | Sparse activation | Route routine work to the smallest reliable capability and reserve expensive reasoning for requests whose judgement justifies it.
 2026-10-08 | Generative UI contracts | Constrain adaptive interfaces with approved components, data contracts, confirmation points and a plain-text fallback so they can personalise presentation without inventing authority.
 2026-10-09 | Control plane vs data plane | Put identity, policy, routing and audit rules around agent tool calls so the system can change authority without relying on the prompt to remember it.
+2026-10-12 | Reference monitors | Route every sensitive agent action through an independent, non-bypassable policy check that can allow, narrow, escalate or deny the call and record the outcome.

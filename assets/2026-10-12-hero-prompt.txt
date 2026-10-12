@@ -1,0 +1,13 @@
+Use case: stylized-concept
+Asset type: 600px-wide email editorial lead illustration for The Willy Brief
+Primary request: create a concept illustration for a story about an AI agent crossing a boundary it was not meant to cross. Show a single restrained blue paper-cut thread travelling through an abstract system of labelled-free gates, one gate visibly catching it before an external world beyond. The visual tension is between helpful agency and an enforced boundary.
+Scene/backdrop: cool off-white paper field with generous negative space
+Subject: a careful chain of abstract tool nodes, access gates and one blue path; no people, no company logos
+Style/medium: flat editorial collage, cut paper with subtle print grain and restrained diagrammatic geometry
+Composition/framing: wide 16:9 landscape composition, central metaphor large and legible on a mobile crop, balanced whitespace
+Lighting/mood: calm, forensic, quietly consequential
+Color palette: cool off-white, dusty denim blue, soft slate blue, dark ink
+Materials/textures: matte cut paper, faint risograph texture
+Text (verbatim): ""
+Constraints: no text, letters, numbers, logos, UI mockups, glossy 3D, neon circuitry, floating dashboard, photorealistic stock imagery, watermark
+Avoid: generic AI imagery or anything that could be a literal product screenshot
