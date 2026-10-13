@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: editorial email hero illustration for The Willy Brief
+Primary request: an editorial illustration about Meta entering the frontier AI model race: a single small human hand places a precise blue cog into a large abstract constellation of three competing systems, showing scale, strategy, and the tension between research ambition and dependable product work.
+Scene/backdrop: cool off-white paper backdrop with generous negative space.
+Subject: a deep ink and dusty denim blue cut-paper collage of modular model blocks, a subtle network of routes, and one human-scale intervention.
+Style/medium: flat editorial collage, cut-paper geometry, restrained print texture, premium magazine illustration.
+Composition/framing: wide 16:9 landscape, focal action central-left, balanced clear negative space; must remain legible at 552px email width.
+Lighting/mood: calm, analytical, quietly consequential.
+Color palette: cool off-white, dusty denim blue, muted slate, dark ink only.
+Text (verbatim): ""
+Constraints: no text, no logos, no brand symbols, no literal UI mockups, no glossy 3D, no neon circuitry, no photorealism, no watermark.
