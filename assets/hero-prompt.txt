@@ -1,10 +1,8 @@
 Use case: illustration-story
-Asset type: editorial email Lead illustration, 16:9 landscape
-Primary request: a calm flat cut-paper collage about conversational commerce and AI advertising. An abstract dusty-denim blue speech bubble unfolds into a small non-literal marketplace path with three simple product-shaped objects: a chair silhouette, a lamp silhouette and a book-shaped block. A small dark-ink abstract figure stands at the edge deciding, while a subtle blue bridge connects the conversation to the objects.
-Scene/backdrop: quiet cool off-white paper background with generous negative space.
-Style/medium: flat editorial cut-paper collage, contemporary newspaper illustration, restrained diagrammatic forms and subtle print texture.
-Composition/framing: wide 16:9, central metaphor clear at 552px email width.
-Lighting/mood: calm, analytical, quietly optimistic.
-Color palette: cool off-white, dusty denim blue, muted blue-grey, dark ink; no other bright colors.
-Text (verbatim): ""
-Constraints: no text, no letters, no logos, no UI, no screens, no dashboards, no photorealism, no neon, no glossy 3D rendering, no watermark.
+Asset type: 8:5 email editorial lead illustration for The Willy Brief
+Primary request: an editorial illustration about a company bringing AI inference infrastructure in-house: a large calm dusty-denim-blue factory-like machine made from simple chip tiles is being routed by a single oversized blue valve, while several small abstract product tokens draw energy from it. The visual idea is that efficiency at the compute layer controls the product layer.
+Scene/backdrop: cool off-white paper background with generous negative space
+Style/medium: flat editorial collage, cut-paper geometry, restrained print texture, intelligent newspaper-magazine illustration
+Composition/framing: landscape 8:5, strong central metaphor readable at phone size; no UI or dashboard
+Color palette: cool off-white, dusty denim blue, muted slate, dark ink
+Constraints: no words, no letters, no logos, no identifiable brands, no watermark; avoid photorealism, neon circuitry, shiny 3D objects, floating interface panels, and generic AI imagery.

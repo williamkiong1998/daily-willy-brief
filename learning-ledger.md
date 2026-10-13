@@ -34,3 +34,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-10-09 | Control plane vs data plane | Put identity, policy, routing and audit rules around agent tool calls so the system can change authority without relying on the prompt to remember it.
 2026-10-12 | Reference monitors | Route every sensitive agent action through an independent, non-bypassable policy check that can allow, narrow, escalate or deny the call and record the outcome.
 2026-10-13 | Temporal policy | Evaluate an agent action against its event history so a sequence of individually safe operations cannot quietly create an unsafe outcome.
+2026-10-14 | Capacity planning | State the demand, latency, cost and fallback budget together so an AI feature’s infrastructure constraint becomes an explicit product decision.
