@@ -1,0 +1,13 @@
+Use case: stylized-concept
+Asset type: editorial email hero illustration (8:5 landscape) for The Willy Brief
+Primary request: depict the tension between rising financing costs and AI infrastructure buildout: a tall dark-ink construction crane lowering a small dusty-denim-blue server rack toward a pale off-white landscape, while a subtle ascending paper receipt / interest-rate ribbon pulls against the crane cable. The metaphor should read as capital getting more expensive for data-centre construction.
+Scene/backdrop: quiet cool off-white paper field with ample breathing room
+Subject: crane, server rack, rising cost ribbon
+Style/medium: flat editorial illustration, cut-paper collage with restrained screenprint grain, sophisticated financial-magazine art direction
+Composition/framing: wide 8:5 landscape, central crane and server rack, generous negative space, legible at 552px email width
+Lighting/mood: calm, analytical, slightly tense
+Color palette: only cool off-white, dusty denim blue, muted slate blue, dark ink
+Materials/textures: subtle paper fibres and print texture
+Text (verbatim): ""
+Constraints: no text, no logos, no UI or dashboards, no literal charts, no people, no photorealism, no glossy 3D, no neon circuitry, no watermark; the central metaphor must remain clear on a small mobile crop
+Avoid: generic AI brains, glowing chips, floating holograms, stock-office scenes
