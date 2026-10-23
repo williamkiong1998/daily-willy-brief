@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: editorial email lead illustration for The Willy Brief, 8:5 landscape
+Primary request: show an enterprise agent leaving a chat window and entering a contained execution environment: a small dusty-denim-blue capsule or workshop sits inside a larger dark-ink frame, connected by a short-lived key and a single cable to a calm stack of task papers. The central metaphor is that an agent needs a runtime, identity and governed state, not just a good reply.
+Scene/backdrop: cool off-white field with generous breathing room
+Style/medium: flat editorial collage, cut-paper geometry, restrained screenprint grain, sophisticated business-magazine art direction
+Composition/framing: wide 8:5, central metaphor clear at 552px email width
+Color palette: cool off-white, dusty denim blue, muted slate blue, dark ink
+Text (verbatim): ""
+Constraints: no words, logos, people, UI mockups, dashboards, literal charts, photorealism, glossy 3D, neon circuitry or watermark
+Avoid: generic AI brains, robots, floating holograms and stock-office scenes
