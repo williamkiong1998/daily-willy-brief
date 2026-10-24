@@ -1,0 +1,12 @@
+Use case: illustration-story
+Asset type: The Willy Brief lead editorial illustration
+Primary request: a flat editorial collage about AI security becoming public operating capacity
+Scene/backdrop: cool off-white paper background with generous negative space
+Subject: a blue public-service vault or control room formed from layered paper panels, with one small dark-ink operator inspecting a visible boundary; a protected pathway leads from an abstract model shape to health and security symbols
+Style/medium: restrained print collage, cut-paper texture, diagrammatic editorial illustration
+Composition/framing: landscape 8:5, central metaphor clear at mobile width
+Lighting/mood: calm, practical, sober
+Color palette: dusty denim blue, dark ink, muted slate, cool off-white
+Text (verbatim): none
+Constraints: no brand marks, no UI mockups, no floating dashboards, no literal circuitry, no photorealism, no 3D gloss
+Avoid: neon, generic AI imagery, text, watermark
