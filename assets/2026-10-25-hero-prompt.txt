@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: email editorial hero for The Willy Brief
+Primary request: a flat editorial collage about the tension between open model weights and cyber safeguards
+Scene/backdrop: cool off-white field with generous negative space
+Subject: an open shipping crate releasing a stack of blue paper model-weights, with a small dark-ink security gate beside it; the gate is visibly useful but cannot follow the weights once they leave the crate
+Style/medium: restrained cut-paper and print-texture editorial illustration
+Composition/framing: wide 8:5 composition, central metaphor readable on mobile
+Lighting/mood: calm, analytical, slightly uneasy
+Color palette: dusty denim blue, dark ink, cool off-white
+Text (verbatim): ""
+Constraints: no logos, no UI mockups, no people, no text, no watermark, no glossy 3D rendering, no neon circuitry

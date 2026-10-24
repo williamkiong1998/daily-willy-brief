@@ -38,3 +38,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-10-15 | Hurdle-rate unit economics | Link an AI feature’s recurring value, utilisation and model cost to a measurable payback date before treating capacity as justified.
 2026-10-23 | Execution environments as interface contracts | Separate temporary runtime, durable state and external authority so an agent’s useful work remains bounded, inspectable and portable.
 2026-10-24 | Security as a runtime property | Treat an AI system's isolation, monitoring and patch path as operating features that constrain what the product is permitted to do.
+2026-10-25 | Capability controls | Put authority at the tool boundary so safety remains enforceable even when model weights, versions or providers change.
