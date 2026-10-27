@@ -1,0 +1,12 @@
+Use case: illustration-story
+Asset type: The Willy Brief email Lead illustration
+Primary request: a flat editorial illustration about an AI company preparing to become public while trying to preserve long-term stewardship
+Scene/backdrop: cool off-white paper field with generous negative space
+Subject: an abstract workshop of layered share certificates, a long-term compass and a balanced architectural framework, suggesting investor capital and durable governance in tension
+Style/medium: restrained cut-paper editorial collage with subtle print texture
+Composition/framing: horizontal 16:9, central metaphor clear at mobile width
+Lighting/mood: calm, analytical and human
+Color palette: dusty denim blue, dark ink, cool off-white
+Text (verbatim): ""
+Constraints: no words, no logos, no UI, no screens, no photorealism, no neon, no glossy 3D
+Avoid: generic AI imagery, floating dashboards, circuitry, stock-office scenes, watermarks
