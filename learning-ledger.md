@@ -41,3 +41,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-10-25 | Capability controls | Put authority at the tool boundary so safety remains enforceable even when model weights, versions or providers change.
 2026-10-26 | Capacity utilisation covenant | Set the minimum workload that covers an AI feature's fixed cost, name its owner and decide the action when demand stays below it.
 2026-10-27 | Decision-rights topology | Put irreversible choices behind explicit voting, veto and escalation paths so the system's long-term constraints do not depend on goodwill or a single operator.
+2026-11-14 | Approval state as a product object | Bind each consequential agent action to an immutable scope, named approver, expiry, receipt and reversal path.

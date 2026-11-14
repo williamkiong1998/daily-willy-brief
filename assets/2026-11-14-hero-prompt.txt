@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: The Willy Brief email lead illustration
+Primary request: an editorial cut-paper illustration of a shopping basket held just outside a locked payment gate, representing an AI agent that can prepare a purchase but waits for a human approval signal
+Scene/backdrop: cool off-white field with generous negative space
+Style/medium: flat editorial collage with restrained print texture
+Composition/framing: wide 16:9 composition, central metaphor clear at mobile size
+Color palette: dusty denim blue, dark ink and cool off-white
+Text (verbatim): ""
+Constraints: no literal user interface, no logos, no text, no watermark, no photorealism, no neon circuitry, no glossy 3D render
