@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: editorial email hero, 16:9 landscape
+Primary request: Convey the central tension of an AI investment boom being suddenly repriced: an elegant suspended construction frame made from evenly spaced semiconductor-like tiles, with several tiles slipping downward while a measured line of small human figures examine the structure from a calm distance.
+Scene/backdrop: warm cool-off-white editorial paper background.
+Style/medium: restrained flat editorial collage, cut-paper geometry, subtle print grain, magazine illustration.
+Composition/framing: wide horizontal 16:9; bold central metaphor readable at 552px wide; leave generous negative space; no interface mockup.
+Lighting/mood: composed, analytical, slightly unsettled.
+Color palette: dusty denim blue, muted pale blue, dark ink, off-white only.
+Materials/textures: tactile paper edges, quiet halftone texture.
+Text (verbatim): ""
+Constraints: no logos, no brands, no numbers, no text, no watermark; make no people identifiable; avoid literal stock charts, screens, generic AI imagery, neon, glossy 3D, photorealism, or a dystopian mood.

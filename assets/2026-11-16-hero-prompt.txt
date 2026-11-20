@@ -1,0 +1,13 @@
+Use case: illustration-story
+Asset type: editorial email hero for The Willy Brief, 16:9 wide illustration
+Primary request: convey the tension of an online marketplace trying to turn chaotic, conflicting product listings from many different shops into one dependable product graph for AI shopping agents
+Scene/backdrop: cool off-white paper field
+Subject: a large, calm archival card-catalogue-like product index at centre, with a few small paper product tags, labels, and shopping-basket shapes arriving from different directions and resolving into clean connected nodes; a subtle gate at the edge hints at platform control
+Style/medium: flat editorial collage, cut paper, restrained print texture, intelligent magazine illustration
+Composition/framing: wide 16:9, central metaphor survives mobile crop, generous breathing room
+Lighting/mood: calm, analytical, slightly skeptical
+Color palette: cool off-white, dusty denim blue, dark ink, muted slate
+Materials/textures: uncoated paper grain, simple screen-print accents
+Text (verbatim): ""
+Constraints: no readable text, no brand logos, no literal interface mockups, no people, no watermark
+Avoid: dark glossy 3D, neon circuitry, generic robot imagery, floating dashboards, photorealism
