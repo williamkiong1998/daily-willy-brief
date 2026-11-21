@@ -44,3 +44,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-11-14 | Approval state as a product object | Bind each consequential agent action to an immutable scope, named approver, expiry, receipt and reversal path.
 2026-11-16 | Entity resolution | Preserve identifiers, source evidence and freshness so an agent can reconcile conflicting records rather than merely sound confident about them.
 2026-11-21 | Event protocols | Model agent runs as typed lifecycle, tool and approval events so the UI can represent long-running work without inventing state or authority.
+2026-11-22 | Reflexive feedback loops | Map how a metric changes decisions and behaviour, then add a circuit breaker where a bad score could otherwise manufacture a worse outcome.

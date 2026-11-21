@@ -1,8 +1,10 @@
 Use case: illustration-story
-Asset type: 8:5 email editorial lead illustration for The Willy Brief
-Primary request: an editorial illustration about a company bringing AI inference infrastructure in-house: a large calm dusty-denim-blue factory-like machine made from simple chip tiles is being routed by a single oversized blue valve, while several small abstract product tokens draw energy from it. The visual idea is that efficiency at the compute layer controls the product layer.
-Scene/backdrop: cool off-white paper background with generous negative space
-Style/medium: flat editorial collage, cut-paper geometry, restrained print texture, intelligent newspaper-magazine illustration
-Composition/framing: landscape 8:5, strong central metaphor readable at phone size; no UI or dashboard
-Color palette: cool off-white, dusty denim blue, muted slate, dark ink
-Constraints: no words, no letters, no logos, no identifiable brands, no watermark; avoid photorealism, neon circuitry, shiny 3D objects, floating interface panels, and generic AI imagery.
+Asset type: 600px email newsletter Lead illustration
+Primary request: Create an original editorial illustration about an AI-investment market correction and reflexive capital feedback loops.
+Scene/backdrop: cool off-white editorial page, abstract paper-like market landscape.
+Subject: a tall, carefully built structure of blue data-centre blocks and small chip-like tiles tilting as a single dark-ink thread of falling price ticks loops back to pull more blocks loose; a few tiny human analysts with clipboards stand at the base, calm and observant.
+Style/medium: refined flat editorial collage, cut-paper geometry, subtle print texture, restrained magazine illustration.
+Composition/framing: wide 16:9, central metaphor large and clear at mobile scale, generous negative space; no literal user interface.
+Lighting/mood: calm, analytical, slightly tense, not dramatic.
+Color palette: cool off-white, dusty denim blue, pale slate blue, dark ink; limited palette.
+Constraints: no text, no letters, no numbers, no logos, no watermark, no glossy 3D render, no neon circuitry, no photorealistic stock scene, no generic AI head or robot.

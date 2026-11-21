@@ -1,0 +1,10 @@
+Use case: illustration-story
+Asset type: 600px email newsletter Lead illustration
+Primary request: Create an original editorial illustration about an AI-investment market correction and reflexive capital feedback loops.
+Scene/backdrop: cool off-white editorial page, abstract paper-like market landscape.
+Subject: a tall, carefully built structure of blue data-centre blocks and small chip-like tiles tilting as a single dark-ink thread of falling price ticks loops back to pull more blocks loose; a few tiny human analysts with clipboards stand at the base, calm and observant.
+Style/medium: refined flat editorial collage, cut-paper geometry, subtle print texture, restrained magazine illustration.
+Composition/framing: wide 16:9, central metaphor large and clear at mobile scale, generous negative space; no literal user interface.
+Lighting/mood: calm, analytical, slightly tense, not dramatic.
+Color palette: cool off-white, dusty denim blue, pale slate blue, dark ink; limited palette.
+Constraints: no text, no letters, no numbers, no logos, no watermark, no glossy 3D render, no neon circuitry, no photorealistic stock scene, no generic AI head or robot.
