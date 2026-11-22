@@ -1,0 +1,13 @@
+Use case: illustration-story
+Asset type: 600px-wide email newsletter Lead illustration for The Willy Brief
+Primary request: an editorial illustration about a mathematician and an AI system producing a proof that computers can verify but humans have not yet absorbed
+Scene/backdrop: cool off-white paper field with generous empty space
+Subject: an elegant chain of small abstract proof blocks and handwritten-like mathematical marks resolving through a clear blue verification gate; on the other side, a lone human figure studies an enormous folded paper trail, conveying that machine verification and human understanding are different stages
+Style/medium: flat editorial collage, cut-paper and restrained print texture, intelligent magazine illustration
+Composition/framing: 16:9 horizontal, central metaphor readable at a small mobile crop, no interface mockups
+Lighting/mood: calm, precise, slightly uncanny rather than celebratory
+Color palette: cool off-white background, dusty denim blue, muted slate blue, dark ink
+Materials/textures: subtle paper grain
+Text (verbatim): ""
+Constraints: no logos, no text, no numbers, no watermark; avoid literal computers, generic AI brains, neon circuitry, glossy 3D, floating dashboards, photorealism
+Avoid: dark background, stock imagery, visual clutter

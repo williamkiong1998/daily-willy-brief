@@ -45,3 +45,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-11-16 | Entity resolution | Preserve identifiers, source evidence and freshness so an agent can reconcile conflicting records rather than merely sound confident about them.
 2026-11-21 | Event protocols | Model agent runs as typed lifecycle, tool and approval events so the UI can represent long-running work without inventing state or authority.
 2026-11-22 | Reflexive feedback loops | Map how a metric changes decisions and behaviour, then add a circuit breaker where a bad score could otherwise manufacture a worse outcome.
+2026-11-23 | Proof-carrying outputs | Require consequential agent outputs to include structured evidence and a checkable receipt so an independent component can verify the decision.
