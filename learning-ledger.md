@@ -46,3 +46,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-11-21 | Event protocols | Model agent runs as typed lifecycle, tool and approval events so the UI can represent long-running work without inventing state or authority.
 2026-11-22 | Reflexive feedback loops | Map how a metric changes decisions and behaviour, then add a circuit breaker where a bad score could otherwise manufacture a worse outcome.
 2026-11-23 | Proof-carrying outputs | Require consequential agent outputs to include structured evidence and a checkable receipt so an independent component can verify the decision.
+2026-11-26 | Observational equivalence | Validate a replacement against the customer-visible behaviours of the old path, using replayed production cases to expose contracts that tests never encoded.

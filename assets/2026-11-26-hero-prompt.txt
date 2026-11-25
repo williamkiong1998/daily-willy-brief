@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: 600px email newsletter lead illustration
+Primary request: An editorial illustration about enterprise AI agents getting governed access to a company workspace: a quiet architectural scene where a small messenger token passes through a clear checkpoint gate before entering an orderly archive of papers, calendar blocks, and file drawers; the gate is visibly controlled by a human-held key but there are no people, logos, UI screens, or readable words.
+Scene/backdrop: cool off-white paper background with generous negative space.
+Subject: the central tension is access becoming governed infrastructure rather than a simple plug-in.
+Style/medium: flat editorial collage, cut-paper shapes with subtle print texture, restrained diagrammatic composition.
+Composition/framing: wide 16:9, central gate and path, legible at small mobile crop.
+Lighting/mood: calm, intelligent, quietly consequential.
+Color palette: dusty denim blue, dark ink, pale slate, cool off-white only.
+Constraints: no text, letters, numbers, logos, product UI, photorealism, glossy 3D, neon circuitry, floating dashboards, watermark.
+Avoid: generic AI imagery, robots, literal app screenshots.
