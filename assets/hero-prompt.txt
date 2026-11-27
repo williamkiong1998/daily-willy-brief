@@ -1,10 +1,12 @@
-Use case: illustration-story
-Asset type: 600px email newsletter Lead illustration
-Primary request: Create an original editorial illustration about an AI-investment market correction and reflexive capital feedback loops.
-Scene/backdrop: cool off-white editorial page, abstract paper-like market landscape.
-Subject: a tall, carefully built structure of blue data-centre blocks and small chip-like tiles tilting as a single dark-ink thread of falling price ticks loops back to pull more blocks loose; a few tiny human analysts with clipboards stand at the base, calm and observant.
-Style/medium: refined flat editorial collage, cut-paper geometry, subtle print texture, restrained magazine illustration.
-Composition/framing: wide 16:9, central metaphor large and clear at mobile scale, generous negative space; no literal user interface.
-Lighting/mood: calm, analytical, slightly tense, not dramatic.
-Color palette: cool off-white, dusty denim blue, pale slate blue, dark ink; limited palette.
-Constraints: no text, no letters, no numbers, no logos, no watermark, no glossy 3D render, no neon circuitry, no photorealistic stock scene, no generic AI head or robot.
+Use case: stylized-concept
+Asset type: editorial email lead illustration, wide 16:9 raster
+Primary request: convey the sudden pause in AI-server deliveries to Malaysia after new chip-export licensing rules—make the tension instantly legible without words.
+Scene/backdrop: cool off-white editorial paper background with generous negative space.
+Subject: a precise customs gate made from stacked matte server crates and a simple horizontal inspection barrier; beyond the barrier, a subtle Malaysian peninsula silhouette and a quiet unfinished data-centre outline. One crate is held just before the gate, implying a paused shipment rather than destruction.
+Style/medium: flat editorial collage, cut-paper and restrained print texture, sophisticated newspaper illustration.
+Composition/framing: wide 16:9; central gate and held crate; retain open quiet margins; read clearly at small mobile-email width.
+Lighting/mood: calm, analytical, a little tense—not apocalyptic.
+Color palette: cool off-white, dusty denim blue, desaturated powder blue, dark ink, restrained muted grey.
+Materials/textures: layered paper, fine grain, crisp geometric edges.
+Text (verbatim): none.
+Constraints: no logos, flags, brand marks, people, screen UI, text, labels, watermark, neon circuitry, glossy 3D rendering, photorealism, generic AI imagery, explosions or panic.
