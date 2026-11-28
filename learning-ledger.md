@@ -48,3 +48,4 @@ Read the last 14 entries before choosing a topic. Append one line per published 
 2026-11-23 | Proof-carrying outputs | Require consequential agent outputs to include structured evidence and a checkable receipt so an independent component can verify the decision.
 2026-11-26 | Observational equivalence | Validate a replacement against the customer-visible behaviours of the old path, using replayed production cases to expose contracts that tests never encoded.
 2026-11-28 | Policy-aware admission control | Turn geography, end-user identity, licence status and expiry into machine-checkable inputs before committing constrained capacity.
+2026-11-29 | Blast-radius engineering | Scope identities, data and permissions so one compromised component can be revoked and contained without becoming a system-wide incident.

@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: editorial email lead hero, 16:9 landscape
+Primary request: An editorial collage illustrating a cloud-security breach contained by good system segmentation: a pale cloud-shaped network above a precise dark-ink boundary wall, with one small fractured blue data path stopped at the outer zone while orderly sealed compartments remain intact behind the boundary.
+Scene/backdrop: cool off-white paper field with generous negative space.
+Style/medium: sophisticated flat editorial cut-paper illustration, subtle print texture, restrained diagrammatic forms; no literal interface, no dashboards.
+Composition/framing: wide 16:9, central metaphor readable at small mobile width, balanced with ample quiet space.
+Lighting/mood: calm, analytical, contained tension.
+Color palette: cool off-white, dusty denim blue, muted pale blue, dark ink.
+Materials/textures: layered paper, fine grain, restrained linework.
+Text (verbatim): ""
+Constraints: no words, no letters, no logos, no watermark, no people, no glossy 3D, no neon circuitry, no photorealism, no generic AI imagery.
